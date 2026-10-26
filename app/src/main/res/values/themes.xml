@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Heavy" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/heavy_bg</item>
+        <item name="android:statusBarColor">@color/heavy_bg</item>
+        <item name="android:navigationBarColor">@color/heavy_bg</item>
+    </style>
+</resources>
